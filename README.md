@@ -2,7 +2,7 @@
 
 ![Glorification](https://github.com/abdullahreed/Islamic-IT/raw/main/GlorificationOnGreen.jpg)
 
-An effort to utilise the religion of Almighty God to Muslims in the IT industry.
+An effort to utilise the religion of Almighty God to assist faithful people who are working in the IT industry.
 
 It is an html file that can be shared with Muslim developers and IT users.
 
