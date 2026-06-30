@@ -12,4 +12,3 @@ For people who already believe in God, He, says: "Therefore do remind, surely re
 
 [![Islamic IT Button](https://github.com/abdullahreed/Islamic-IT/raw/main/IslamicITButton.heic)](../../blob/main/Technology%20Reminder.html)
 
-[📖 View Technology Reminder](../../blob/main/Technology%20Reminder.html)
