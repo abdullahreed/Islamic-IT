@@ -4,4 +4,4 @@ An investigation into how submission to Almighty God can best assist the IT indu
 
 God, The Most Wise, says: "Therefore do remind, surely reminding does profit."
 
-<image href="GlorificationOnGreen.jpg">
+![Glorification on Green](https://github.com/abdullahreed/Islamic-IT/raw/main/GlorificationOnGreen.jpg)
