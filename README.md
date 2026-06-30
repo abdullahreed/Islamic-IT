@@ -1,6 +1,6 @@
 # Islamic-IT
 
-!(https://github.com/abdullahreed/Islamic-IT/raw/main/GlorificationOnGreen.jpg)
+![Glorification](https://github.com/abdullahreed/Islamic-IT/raw/main/GlorificationOnGreen.jpg)
 
 An effort to utilise the religion of Almighty God to Muslims in the IT industry.
 
