@@ -9,3 +9,5 @@ It is an html file that can be shared with Muslim developers and IT users.
 For people who already believe in God, He, says: "Therefore do remind, surely reminding does profit."
 
 ![Glorification on Green](https://github.com/abdullahreed/Islamic-IT/raw/main/GlorificationOnGreen.jpg)
+
+[📖 View Technology Reminder](../../blob/main/Technology%20Reminder.html)
