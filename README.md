@@ -1,6 +1,6 @@
 # Islamic-IT
 
-!(https://github.com/abdullahreed/Islamic-IT/raw/main/Technology%20Reminder.html)
+!(https://github.com/abdullahreed/Islamic-IT/raw/main/GlorificationOnGreen.jpg)
 
 An effort to utilise the religion of Almighty God to Muslims in the IT industry.
 
