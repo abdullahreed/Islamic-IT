@@ -10,5 +10,5 @@ It is an html file that can be shared with Muslim developers and IT users.
 
 For people who already believe in God, He says: "Therefore do remind, surely reminding does profit."
 
-[![Islamic IT Button](https://github.com/abdullahreed/Islamic-IT/raw/main/IslamicITButton.heic)](https://raw.githubusercontent.com/abdullahreed/Islamic-IT/main/index.html)
+[![Islamic IT Button](https://github.com/abdullahreed/Islamic-IT/raw/main/IslamicITButton.heic)](https://abdullahreed.github.io/Islamic-IT/)
 
